@@ -1,0 +1,4 @@
+::1 - - [12/Oct/2018:00:01:37 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+::1 - - [12/Oct/2018:00:01:41 +0000] "GET /contact HTTP/1.1" 304 - "http://localhost:8081/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+::1 - - [12/Oct/2018:00:01:42 +0000] "GET /game HTTP/1.1" 304 - "http://localhost:8081/contact" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+::1 - - [12/Oct/2018:00:01:47 +0000] "GET /index HTTP/1.1" 304 - "http://localhost:8081/game" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"

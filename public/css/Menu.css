@@ -1,0 +1,50 @@
+.container-fluid{
+    font-family:'italic';
+    background-color:black;
+    color:white;
+    font-size:25px;
+}
+
+.c1{
+	font-size: 40px;
+    font-family:'italic';
+    color: green;
+    text-align: center;
+
+}
+.p1{
+    font-size: 20px;
+	color: white;
+	font-style: oblique;
+	border-style: solid;
+	text-align:center;
+	padding: 30px;
+	border-color: green;
+	background-color: violet;
+}
+
+p{
+	font-size: 25px;
+    color: green;
+    
+}
+#id1{
+    font-size: 25px;
+    color: darkblue; 
+}
+
+
+ul li{
+    font-style:strong;
+    font-family: "Times New Roman", Times, serif;
+    color:peru;
+    font-size: 25px; 
+}
+
+.c2{
+    text-align: center;
+}
+#links{
+    font-size: 20px;
+    text-align: center;
+}
